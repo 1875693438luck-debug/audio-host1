@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Audio Host</title>
+</head>
+<body style="font-family:system-ui;padding:24px">
+  <h1>广播音频</h1>
+  <audio controls preload="metadata" src="radio.mp3"></audio>
+  <p>直链：/radio.mp3</p>
+</body>
+</html>
